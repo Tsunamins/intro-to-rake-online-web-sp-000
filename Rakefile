@@ -12,3 +12,8 @@ namespace :greeting do
 
 end 
 
+desc 'drop into the console'
+  task :console => :environtment do 
+  end 
+  
+
